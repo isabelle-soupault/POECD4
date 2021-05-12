@@ -1,0 +1,41 @@
+.competences ul, .adress ul, .interest ul{
+    list-style: none;
+}
+.quaterPage{
+    width:34%;
+}
+
+.fond{
+    background: url('background3.png') no-repeat center center;
+    height:10vh;
+    padding-bottom: 50px;
+}
+.jumbotron {
+    margin-bottom: 50px;
+    height: 10vh;
+    color: white; 
+    text-shadow: black 0.3em 0.3em 0.3em;
+    /* background: radial-gradient(circle, rgba(81,148,136,0.25) 35%, rgba(133,111,124,1) 100%); */
+   }
+ body{
+     background-color: rgba(17, 75, 65, 0.1);   
+ }
+
+ .strenght li {
+    list-style-position: inside;
+ }
+ .strenght{
+     padding-left:20%;
+ }
+.strenght ul li {
+    list-style: none;
+}
+
+.photoCV{
+     height: 17vh;
+     /* margin-bottom: 30px; */
+ }
+ .card{
+    margin-bottom: 50px;
+    background: radial-gradient(circle, rgba(81,148,136,0.25) 35%, rgba(133,111,124,1) 100%);
+ }
